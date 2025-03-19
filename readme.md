@@ -25,7 +25,7 @@
 2️⃣ **Document Upload & Processing** – Aadhaar, PAN, and Payslips are scanned using OCR.  
 3️⃣ **Facial Verification** – Ensures the same applicant completes the process.  
 4️⃣ **Loan Eligibility Check** – Evaluates financial stability and generates approval status.  
-5️⃣ **Decision Notification** – Instant feedback: ✅ Approved, ❌ Rejected, 🔍 More Info Needed.  
+5️⃣ **Decision Notification** – Instant feedback:  Approved,  Rejected,  More Info Needed.  
 
 ## **💻 Installation & Setup**  
 1️⃣ **Clone the repository:**  
